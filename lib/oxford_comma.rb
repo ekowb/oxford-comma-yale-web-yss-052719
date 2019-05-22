@@ -9,5 +9,5 @@ def oxford_comma(array)
     new_last = "and #{last_word}"
     array.push(last_word)
   end
-  
+
 end
